@@ -1,0 +1,4 @@
+#define IC_TOPIC_UNHANDLED 0
+#define IC_TOPIC_HANDLED 1
+#define IC_TOPIC_REFRESH 2
+#define IC_FLAG_CAN_FIRE 1
